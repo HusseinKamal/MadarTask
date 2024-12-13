@@ -1,4 +1,4 @@
-# This Task contains 2 Screens
+# This Task contains two Screens
 1.Register New User with name,age,jobTitle and gender.
 2.Profile page contians details for the new user.
 
